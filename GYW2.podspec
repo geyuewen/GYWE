@@ -30,7 +30,7 @@ GYW2: A123123123123
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'GYW2/Classes/**/*'
+s.source_files = 'GYW2/Classes/**/*' , 'GYW2/Classes/*.{h.m}'
   
   # s.resource_bundles = {
   #   'GYW2' => ['GYW2/Assets/*.png']
